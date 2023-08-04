@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InyeccionDeDependencias/InyeccionDeDependencias.iml" filepath="$PROJECT_DIR$/InyeccionDeDependencias/InyeccionDeDependencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaSemana2.iml" filepath="$PROJECT_DIR$/.idea/JavaSemana2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambdas/Lambdas.iml" filepath="$PROJECT_DIR$/Lambdas/Lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+    </modules>
+  </component>
+</project>
